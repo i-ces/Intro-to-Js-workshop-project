@@ -28,7 +28,7 @@ At the end of the development we will get something like this.
 
     ```bash
 
-    git clone https://github.com/your-username/news-web-app.git
+    git clone [[https://github.com/your-username/news-web-app.git](https://github.com/i-ces/Intro-to-Js-workshop-project.git)](https://github.com/i-ces/Intro-to-Js-workshop-project.git)
 
     ```
 
@@ -36,7 +36,7 @@ At the end of the development we will get something like this.
 
     ```bash
 
-    cd news-web-app
+    cd Intro-to-Js-workshop-project
 
     ```
 
